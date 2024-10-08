@@ -26,6 +26,6 @@ public class VillaNumberAPIController : ControllerBase
     [HttpGet("GetString")]
     public IEnumerable<string> Get()
     {
-        return new string[] { "Dhairya", "Web API Beginner" };
+        return new string[] { "Rushabh", "Web API Beginner" };
     }
 }
