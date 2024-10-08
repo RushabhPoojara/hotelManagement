@@ -1,0 +1,188 @@
+C:\Users\pce97\Desktop\Practice\Demo Asp DotNetCoreWebAPI\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\pce97\Desktop\Practice\Demo Asp DotNetCoreWebAPI\bin\Debug\net7.0\appsettings.json
+C:\Users\pce97\Desktop\Practice\Demo Asp DotNetCoreWebAPI\bin\Debug\net7.0\Demo Asp DotNetCoreWebAPI.exe
+C:\Users\pce97\Desktop\Practice\Demo Asp DotNetCoreWebAPI\bin\Debug\net7.0\Demo Asp DotNetCoreWebAPI.deps.json
+C:\Users\pce97\Desktop\Practice\Demo Asp DotNetCoreWebAPI\bin\Debug\net7.0\Demo Asp DotNetCoreWebAPI.runtimeconfig.json
+C:\Users\pce97\Desktop\Practice\Demo Asp DotNetCoreWebAPI\bin\Debug\net7.0\Demo Asp DotNetCoreWebAPI.dll
+C:\Users\pce97\Desktop\Practice\Demo Asp DotNetCoreWebAPI\bin\Debug\net7.0\Demo Asp DotNetCoreWebAPI.pdb
+C:\Users\pce97\Desktop\Practice\Demo Asp DotNetCoreWebAPI\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\pce97\Desktop\Practice\Demo Asp DotNetCoreWebAPI\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\pce97\Desktop\Practice\Demo Asp DotNetCoreWebAPI\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\pce97\Desktop\Practice\Demo Asp DotNetCoreWebAPI\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\pce97\Desktop\Practice\Demo Asp DotNetCoreWebAPI\bin\Debug\net7.0\Humanizer.dll
+C:\Users\pce97\Desktop\Practice\Demo Asp DotNetCoreWebAPI\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\pce97\Desktop\Practice\Demo Asp DotNetCoreWebAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\pce97\Desktop\Practice\Demo Asp DotNetCoreWebAPI\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\pce97\Desktop\Practice\Demo Asp DotNetCoreWebAPI\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\pce97\Desktop\Practice\Demo Asp DotNetCoreWebAPI\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\pce97\Desktop\Practice\Demo Asp DotNetCoreWebAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\pce97\Desktop\Practice\Demo Asp DotNetCoreWebAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\pce97\Desktop\Practice\Demo Asp DotNetCoreWebAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\pce97\Desktop\Practice\Demo Asp DotNetCoreWebAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\pce97\Desktop\Practice\Demo Asp DotNetCoreWebAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\pce97\Desktop\Practice\Demo Asp DotNetCoreWebAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\pce97\Desktop\Practice\Demo Asp DotNetCoreWebAPI\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\pce97\Desktop\Practice\Demo Asp DotNetCoreWebAPI\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\pce97\Desktop\Practice\Demo Asp DotNetCoreWebAPI\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\pce97\Desktop\Practice\Demo Asp DotNetCoreWebAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\pce97\Desktop\Practice\Demo Asp DotNetCoreWebAPI\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\pce97\Desktop\Practice\Demo Asp DotNetCoreWebAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\pce97\Desktop\Practice\Demo Asp DotNetCoreWebAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\pce97\Desktop\Practice\Demo Asp DotNetCoreWebAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\pce97\Desktop\Practice\Demo Asp DotNetCoreWebAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\pce97\Desktop\Practice\Demo Asp DotNetCoreWebAPI\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\pce97\Desktop\Practice\Demo Asp DotNetCoreWebAPI\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\pce97\Desktop\Practice\Demo Asp DotNetCoreWebAPI\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\pce97\Desktop\Practice\Demo Asp DotNetCoreWebAPI\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\pce97\Desktop\Practice\Demo Asp DotNetCoreWebAPI\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\pce97\Desktop\Practice\Demo Asp DotNetCoreWebAPI\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+C:\Users\pce97\Desktop\Practice\Demo Asp DotNetCoreWebAPI\bin\Debug\net7.0\Npgsql.dll
+C:\Users\pce97\Desktop\Practice\Demo Asp DotNetCoreWebAPI\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\pce97\Desktop\Practice\Demo Asp DotNetCoreWebAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\pce97\Desktop\Practice\Demo Asp DotNetCoreWebAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\pce97\Desktop\Practice\Demo Asp DotNetCoreWebAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\pce97\Desktop\Practice\Demo Asp DotNetCoreWebAPI\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\pce97\Desktop\Practice\Demo Asp DotNetCoreWebAPI\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\pce97\Desktop\Practice\Demo Asp DotNetCoreWebAPI\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\pce97\Desktop\Practice\Demo Asp DotNetCoreWebAPI\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\pce97\Desktop\Practice\Demo Asp DotNetCoreWebAPI\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\pce97\Desktop\Practice\Demo Asp DotNetCoreWebAPI\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\pce97\Desktop\Practice\Demo Asp DotNetCoreWebAPI\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\pce97\Desktop\Practice\Demo Asp DotNetCoreWebAPI\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\pce97\Desktop\Practice\Demo Asp DotNetCoreWebAPI\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\pce97\Desktop\Practice\Demo Asp DotNetCoreWebAPI\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\pce97\Desktop\Practice\Demo Asp DotNetCoreWebAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\pce97\Desktop\Practice\Demo Asp DotNetCoreWebAPI\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pce97\Desktop\Practice\Demo Asp DotNetCoreWebAPI\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pce97\Desktop\Practice\Demo Asp DotNetCoreWebAPI\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pce97\Desktop\Practice\Demo Asp DotNetCoreWebAPI\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pce97\Desktop\Practice\Demo Asp DotNetCoreWebAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\pce97\Desktop\Practice\Demo Asp DotNetCoreWebAPI\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\pce97\Desktop\Practice\Demo Asp DotNetCoreWebAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\pce97\Desktop\Practice\Demo Asp DotNetCoreWebAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\pce97\Desktop\Practice\Demo Asp DotNetCoreWebAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\pce97\Desktop\Practice\Demo Asp DotNetCoreWebAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\pce97\Desktop\Practice\Demo Asp DotNetCoreWebAPI\obj\Debug\net7.0\Demo Asp DotNetCoreWebAPI.csproj.AssemblyReference.cache
+C:\Users\pce97\Desktop\Practice\Demo Asp DotNetCoreWebAPI\obj\Debug\net7.0\Demo Asp DotNetCoreWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pce97\Desktop\Practice\Demo Asp DotNetCoreWebAPI\obj\Debug\net7.0\Demo Asp DotNetCoreWebAPI.AssemblyInfoInputs.cache
+C:\Users\pce97\Desktop\Practice\Demo Asp DotNetCoreWebAPI\obj\Debug\net7.0\Demo Asp DotNetCoreWebAPI.AssemblyInfo.cs
+C:\Users\pce97\Desktop\Practice\Demo Asp DotNetCoreWebAPI\obj\Debug\net7.0\Demo Asp DotNetCoreWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\pce97\Desktop\Practice\Demo Asp DotNetCoreWebAPI\obj\Debug\net7.0\Demo Asp DotNetCoreWebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\pce97\Desktop\Practice\Demo Asp DotNetCoreWebAPI\obj\Debug\net7.0\Demo Asp DotNetCoreWebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\pce97\Desktop\Practice\Demo Asp DotNetCoreWebAPI\obj\Debug\net7.0\staticwebassets\msbuild.Demo Asp DotNetCoreWebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\pce97\Desktop\Practice\Demo Asp DotNetCoreWebAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.Demo Asp DotNetCoreWebAPI.props
+C:\Users\pce97\Desktop\Practice\Demo Asp DotNetCoreWebAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Demo Asp DotNetCoreWebAPI.props
+C:\Users\pce97\Desktop\Practice\Demo Asp DotNetCoreWebAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Demo Asp DotNetCoreWebAPI.props
+C:\Users\pce97\Desktop\Practice\Demo Asp DotNetCoreWebAPI\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\pce97\Desktop\Practice\Demo Asp DotNetCoreWebAPI\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\pce97\Desktop\Practice\Demo Asp DotNetCoreWebAPI\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\pce97\Desktop\Practice\Demo Asp DotNetCoreWebAPI\obj\Debug\net7.0\scopedcss\bundle\Demo Asp DotNetCoreWebAPI.styles.css
+C:\Users\pce97\Desktop\Practice\Demo Asp DotNetCoreWebAPI\obj\Debug\net7.0\Demo Asp DotNetCoreWebAPI.csproj.CopyComplete
+C:\Users\pce97\Desktop\Practice\Demo Asp DotNetCoreWebAPI\obj\Debug\net7.0\Demo Asp DotNetCoreWebAPI.dll
+C:\Users\pce97\Desktop\Practice\Demo Asp DotNetCoreWebAPI\obj\Debug\net7.0\refint\Demo Asp DotNetCoreWebAPI.dll
+C:\Users\pce97\Desktop\Practice\Demo Asp DotNetCoreWebAPI\obj\Debug\net7.0\Demo Asp DotNetCoreWebAPI.pdb
+C:\Users\pce97\Desktop\Practice\Demo Asp DotNetCoreWebAPI\obj\Debug\net7.0\Demo Asp DotNetCoreWebAPI.genruntimeconfig.cache
+C:\Users\pce97\Desktop\Practice\Demo Asp DotNetCoreWebAPI\obj\Debug\net7.0\ref\Demo Asp DotNetCoreWebAPI.dll
+c:\Users\pce97\Desktop\Practice\Demo Asp DotNetCoreWebAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+c:\Users\pce97\Desktop\Practice\Demo Asp DotNetCoreWebAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+c:\Users\pce97\Desktop\Practice\Demo Asp DotNetCoreWebAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer.dll
+C:\Users\pce97\Desktop\Practice\Demo Asp DotNetCoreWebAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\pce97\Desktop\Practice\Demo Asp DotNetCoreWebAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\pce97\Desktop\Practice\Demo Asp DotNetCoreWebAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\pce97\Desktop\Practice\Demo Asp DotNetCoreWebAPI\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\pce97\Desktop\Practice\Demo Asp DotNetCoreWebAPI\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\pce97\Desktop\Practice\Demo Asp DotNetCoreWebAPI\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+D:\Dhairya\Practice\Demo Asp DotNetCoreWebAPI\bin\Debug\net7.0\appsettings.Development.json
+D:\Dhairya\Practice\Demo Asp DotNetCoreWebAPI\bin\Debug\net7.0\appsettings.json
+D:\Dhairya\Practice\Demo Asp DotNetCoreWebAPI\bin\Debug\net7.0\Demo Asp DotNetCoreWebAPI.exe
+D:\Dhairya\Practice\Demo Asp DotNetCoreWebAPI\bin\Debug\net7.0\Demo Asp DotNetCoreWebAPI.deps.json
+D:\Dhairya\Practice\Demo Asp DotNetCoreWebAPI\bin\Debug\net7.0\Demo Asp DotNetCoreWebAPI.runtimeconfig.json
+D:\Dhairya\Practice\Demo Asp DotNetCoreWebAPI\bin\Debug\net7.0\Demo Asp DotNetCoreWebAPI.dll
+D:\Dhairya\Practice\Demo Asp DotNetCoreWebAPI\bin\Debug\net7.0\Demo Asp DotNetCoreWebAPI.pdb
+D:\Dhairya\Practice\Demo Asp DotNetCoreWebAPI\bin\Debug\net7.0\AutoMapper.dll
+D:\Dhairya\Practice\Demo Asp DotNetCoreWebAPI\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Dhairya\Practice\Demo Asp DotNetCoreWebAPI\bin\Debug\net7.0\Azure.Core.dll
+D:\Dhairya\Practice\Demo Asp DotNetCoreWebAPI\bin\Debug\net7.0\Azure.Identity.dll
+D:\Dhairya\Practice\Demo Asp DotNetCoreWebAPI\bin\Debug\net7.0\Humanizer.dll
+D:\Dhairya\Practice\Demo Asp DotNetCoreWebAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Dhairya\Practice\Demo Asp DotNetCoreWebAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Dhairya\Practice\Demo Asp DotNetCoreWebAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Dhairya\Practice\Demo Asp DotNetCoreWebAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Dhairya\Practice\Demo Asp DotNetCoreWebAPI\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Dhairya\Practice\Demo Asp DotNetCoreWebAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Dhairya\Practice\Demo Asp DotNetCoreWebAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+D:\Dhairya\Practice\Demo Asp DotNetCoreWebAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer.dll
+D:\Dhairya\Practice\Demo Asp DotNetCoreWebAPI\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Dhairya\Practice\Demo Asp DotNetCoreWebAPI\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Dhairya\Practice\Demo Asp DotNetCoreWebAPI\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\Dhairya\Practice\Demo Asp DotNetCoreWebAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Dhairya\Practice\Demo Asp DotNetCoreWebAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Dhairya\Practice\Demo Asp DotNetCoreWebAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Dhairya\Practice\Demo Asp DotNetCoreWebAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\Dhairya\Practice\Demo Asp DotNetCoreWebAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Dhairya\Practice\Demo Asp DotNetCoreWebAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Dhairya\Practice\Demo Asp DotNetCoreWebAPI\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\Dhairya\Practice\Demo Asp DotNetCoreWebAPI\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+D:\Dhairya\Practice\Demo Asp DotNetCoreWebAPI\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Dhairya\Practice\Demo Asp DotNetCoreWebAPI\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+D:\Dhairya\Practice\Demo Asp DotNetCoreWebAPI\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\Dhairya\Practice\Demo Asp DotNetCoreWebAPI\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Dhairya\Practice\Demo Asp DotNetCoreWebAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Dhairya\Practice\Demo Asp DotNetCoreWebAPI\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Dhairya\Practice\Demo Asp DotNetCoreWebAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\Dhairya\Practice\Demo Asp DotNetCoreWebAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\Dhairya\Practice\Demo Asp DotNetCoreWebAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Dhairya\Practice\Demo Asp DotNetCoreWebAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\Dhairya\Practice\Demo Asp DotNetCoreWebAPI\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\Dhairya\Practice\Demo Asp DotNetCoreWebAPI\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\Dhairya\Practice\Demo Asp DotNetCoreWebAPI\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Dhairya\Practice\Demo Asp DotNetCoreWebAPI\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\Dhairya\Practice\Demo Asp DotNetCoreWebAPI\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\Dhairya\Practice\Demo Asp DotNetCoreWebAPI\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+D:\Dhairya\Practice\Demo Asp DotNetCoreWebAPI\bin\Debug\net7.0\Npgsql.dll
+D:\Dhairya\Practice\Demo Asp DotNetCoreWebAPI\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\Dhairya\Practice\Demo Asp DotNetCoreWebAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Dhairya\Practice\Demo Asp DotNetCoreWebAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Dhairya\Practice\Demo Asp DotNetCoreWebAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Dhairya\Practice\Demo Asp DotNetCoreWebAPI\bin\Debug\net7.0\System.CodeDom.dll
+D:\Dhairya\Practice\Demo Asp DotNetCoreWebAPI\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\Dhairya\Practice\Demo Asp DotNetCoreWebAPI\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\Dhairya\Practice\Demo Asp DotNetCoreWebAPI\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Dhairya\Practice\Demo Asp DotNetCoreWebAPI\bin\Debug\net7.0\System.Memory.Data.dll
+D:\Dhairya\Practice\Demo Asp DotNetCoreWebAPI\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\Dhairya\Practice\Demo Asp DotNetCoreWebAPI\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Dhairya\Practice\Demo Asp DotNetCoreWebAPI\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\Dhairya\Practice\Demo Asp DotNetCoreWebAPI\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\Dhairya\Practice\Demo Asp DotNetCoreWebAPI\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Dhairya\Practice\Demo Asp DotNetCoreWebAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Dhairya\Practice\Demo Asp DotNetCoreWebAPI\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Dhairya\Practice\Demo Asp DotNetCoreWebAPI\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Dhairya\Practice\Demo Asp DotNetCoreWebAPI\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Dhairya\Practice\Demo Asp DotNetCoreWebAPI\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Dhairya\Practice\Demo Asp DotNetCoreWebAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Dhairya\Practice\Demo Asp DotNetCoreWebAPI\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Dhairya\Practice\Demo Asp DotNetCoreWebAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Dhairya\Practice\Demo Asp DotNetCoreWebAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Dhairya\Practice\Demo Asp DotNetCoreWebAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Dhairya\Practice\Demo Asp DotNetCoreWebAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Dhairya\Practice\Demo Asp DotNetCoreWebAPI\obj\Debug\net7.0\Demo Asp DotNetCoreWebAPI.csproj.AssemblyReference.cache
+D:\Dhairya\Practice\Demo Asp DotNetCoreWebAPI\obj\Debug\net7.0\Demo Asp DotNetCoreWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dhairya\Practice\Demo Asp DotNetCoreWebAPI\obj\Debug\net7.0\Demo Asp DotNetCoreWebAPI.AssemblyInfoInputs.cache
+D:\Dhairya\Practice\Demo Asp DotNetCoreWebAPI\obj\Debug\net7.0\Demo Asp DotNetCoreWebAPI.AssemblyInfo.cs
+D:\Dhairya\Practice\Demo Asp DotNetCoreWebAPI\obj\Debug\net7.0\Demo Asp DotNetCoreWebAPI.csproj.CoreCompileInputs.cache
+D:\Dhairya\Practice\Demo Asp DotNetCoreWebAPI\obj\Debug\net7.0\Demo Asp DotNetCoreWebAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Dhairya\Practice\Demo Asp DotNetCoreWebAPI\obj\Debug\net7.0\Demo Asp DotNetCoreWebAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Dhairya\Practice\Demo Asp DotNetCoreWebAPI\obj\Debug\net7.0\staticwebassets\msbuild.Demo Asp DotNetCoreWebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Dhairya\Practice\Demo Asp DotNetCoreWebAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.Demo Asp DotNetCoreWebAPI.props
+D:\Dhairya\Practice\Demo Asp DotNetCoreWebAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Demo Asp DotNetCoreWebAPI.props
+D:\Dhairya\Practice\Demo Asp DotNetCoreWebAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Demo Asp DotNetCoreWebAPI.props
+D:\Dhairya\Practice\Demo Asp DotNetCoreWebAPI\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Dhairya\Practice\Demo Asp DotNetCoreWebAPI\obj\Debug\net7.0\staticwebassets.build.json
+D:\Dhairya\Practice\Demo Asp DotNetCoreWebAPI\obj\Debug\net7.0\staticwebassets.development.json
+D:\Dhairya\Practice\Demo Asp DotNetCoreWebAPI\obj\Debug\net7.0\scopedcss\bundle\Demo Asp DotNetCoreWebAPI.styles.css
+D:\Dhairya\Practice\Demo Asp DotNetCoreWebAPI\obj\Debug\net7.0\Demo Asp DotNetCoreWebAPI.csproj.CopyComplete
+D:\Dhairya\Practice\Demo Asp DotNetCoreWebAPI\obj\Debug\net7.0\Demo Asp DotNetCoreWebAPI.dll
+D:\Dhairya\Practice\Demo Asp DotNetCoreWebAPI\obj\Debug\net7.0\refint\Demo Asp DotNetCoreWebAPI.dll
+D:\Dhairya\Practice\Demo Asp DotNetCoreWebAPI\obj\Debug\net7.0\Demo Asp DotNetCoreWebAPI.pdb
+D:\Dhairya\Practice\Demo Asp DotNetCoreWebAPI\obj\Debug\net7.0\Demo Asp DotNetCoreWebAPI.genruntimeconfig.cache
+D:\Dhairya\Practice\Demo Asp DotNetCoreWebAPI\obj\Debug\net7.0\ref\Demo Asp DotNetCoreWebAPI.dll
